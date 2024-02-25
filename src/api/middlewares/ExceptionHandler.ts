@@ -1,4 +1,4 @@
-import { ExpressErrorMiddlewareInterface, Middleware, HttpError } from 'routing-controllers';
+import { ExpressErrorMiddlewareInterface, Middleware } from 'routing-controllers';
 import * as express from 'express';
 import { Service } from 'typedi';
 
